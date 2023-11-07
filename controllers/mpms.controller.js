@@ -24,9 +24,9 @@ class MpmsController {
 
     }
 
-    async getSingleMinistry(acronym) {
+    async getSingleMinistry(id) {
         try {
-            let ministry = await mpmsModel.findOne({ acronym });
+            let ministry = await mpmsModel.findById(id);
             return { ok: true, data: ministry };
         } catch (error) {
             return { ok: false, message: error.message };

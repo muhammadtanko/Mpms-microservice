@@ -4,11 +4,10 @@ const { Router } = require("express")
 
 module.exports = () => {
     let api = new Router();
-    // let api = express.Router();
-    api.get("/:acronym", async (req, res) => {
+    api.get("/:id", async (req, res) => {
         try {
-            const { acronym } = req.params;
-            let { ok, data, message } = await MpmsController.getSingleMinistry(acronym);
+            const id = req.params.id;
+            let { ok, data, message } = await MpmsController.getSingleMinistry(id);
             if (ok) {
                 res.status(201).json({ ok, data })
             } else {
