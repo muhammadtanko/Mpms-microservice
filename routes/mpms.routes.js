@@ -1,10 +1,10 @@
 const MpmsController = require("../controllers/mpms.controller");
 const { Router } = require("express")
 
-let api = new Router();
 
-module.exports = (express) => {
-    let api = express.Router();
+module.exports = () => {
+    let api = new Router();
+    // let api = express.Router();
     api.get("/:acronym", async (req, res) => {
         try {
             const { acronym } = req.params;
