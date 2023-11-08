@@ -1,4 +1,6 @@
 const mongoose = require("mongoose");
+const { mongoUri } = require("../config").app
+
 
 module.exports = async () => {
     const dbConn = mongoose.connection;
@@ -9,12 +11,12 @@ module.exports = async () => {
         .on("error", (error) => {
             console.log(`error connecting to mongo >> ${error.message}`);
         })
-        .on("diconnected", () => {
+        .on("disconnected", () => {
             console.log("disconnected from mongo");
             setTimeout(async () => {
                 console.log("reconnecting to mongo");
-                await mongoose.connect("mongodb://localhost:27017/mpmsdb")
+                await mongoose.connect(mongoUri)
             }, 5000);
         })
-    await mongoose.connect("mongodb://localhost:27017/mpmsdb")
+    await mongoose.connect(mongoUri)
 }
