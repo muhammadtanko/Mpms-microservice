@@ -1,4 +1,7 @@
 require("./connection/mongo.conn")();
+require("dotenv").config()
+const UPLOADS = __dirname + '/uploads';
+const { port } = require("./config").app
 
 const express = require("express")
 const cors = require("cors");
@@ -10,8 +13,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use("/api/v1/ministries", mpmsRoutes());
+app.use("/api/v1/ministries", mpmsRoutes(UPLOADS));
 
-app.listen(3000, () => {
-    console.log("app listening on port 3000");
+app.listen(port, () => {
+    console.log("app listening on port: " + port);
 })
