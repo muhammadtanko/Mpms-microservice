@@ -3,11 +3,6 @@ const { Router } = require("express")
 const multer = require('multer');
 const uuid = require('uuid').v4;
 
-
-
-
-
-
 module.exports = (UPLOADS) => {
     const storage = multer.diskStorage({
         destination: function (req, file, cb) {
