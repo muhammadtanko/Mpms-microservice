@@ -1,10 +1,23 @@
 const agenciesModel = require("../model/agencies.model");
-const fs = require("fs");
-const path = require("path");
-const filePath = path.join(__dirname, "../Data/agencies.json");
-class AgenciesController {
-  constructor() { }
+const jsonFileData = require("../data/agencies.json");
 
+class AgenciesController {
+  constructor() {
+    this.populateDb();
+  }
+  async populateDb() {
+    const dbData = await agenciesModel.find();
+    if (dbData.length == 0) {
+      const mappedData = jsonFileData.map((item) => ({
+        name: item["NAME OF AGENCY"],
+        acronym: item.ACRONYM,
+        logo: item.LOGO,
+        url: item.URL,
+      }));
+      const res = await agenciesModel.insertMany(mappedData);
+      return { ok: true, data: res };
+    }
+  }
   async createAgency(body) {
     try {
       const agency = new agenciesModel(body);
@@ -18,20 +31,6 @@ class AgenciesController {
   async getAllAgencies() {
     try {
       let agencies = await agenciesModel.find();
-
-      if (agencies.length == 0) {
-        const JsonData = fs.readFileSync(filePath, "utf8");
-        const data = JSON.parse(JsonData);
-
-        const mappedData = data.map((item) => ({
-          name: item["NAME OF AGENCY"],
-          acronym: item.ACRONYM,
-          logo: item.LOGO,
-          url: item.URL,
-        }));
-        const res = await agenciesModel.insertMany(mappedData);
-        return { ok: true, data: res };
-      }
       return { ok: true, data: agencies };
     } catch (error) {
       return { ok: false, message: error.message };

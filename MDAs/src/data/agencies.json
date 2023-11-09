@@ -2,7 +2,7 @@
   {
     "NAME": "Budget Office of the Federation",
     "ACRONYM": "BOF",
-    "URL": "https://www.budgetoffice.gov.ng/"
+    "URL": "https://www.budgetoffice.gov.ng"
   },
   {
     "NAME": "Bureau of Public Enterprises",
@@ -152,7 +152,7 @@
   {
     "NAME": "Nigeria Stock Exchange",
     "ACRONYM": "NSE",
-    "URL": "https://ngxgroup.com//"
+    "URL": "https://ngxgroup.com/"
   },
   {
     "NAME": "Nigerian Air force",
@@ -209,4 +209,4 @@
     "ACRONYM": "WAEC",
     "URL": "https://www.waecnigeria.org/"
   }
- ]
+]
