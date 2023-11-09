@@ -7,14 +7,17 @@ class AgenciesController {
   }
   async populateDb() {
     const dbData = await agenciesModel.find();
+
     if (dbData.length == 0) {
       const mappedData = jsonFileData.map((item) => ({
-        name: item["NAME OF AGENCY"],
+        name: item["NAME"],
         acronym: item.ACRONYM,
         logo: item.LOGO,
         url: item.URL,
       }));
+      console.log("mappedData",mappedData);
       const res = await agenciesModel.insertMany(mappedData);
+      console.log("response", res);
       return { ok: true, data: res };
     }
   }
