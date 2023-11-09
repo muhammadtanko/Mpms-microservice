@@ -18,10 +18,21 @@ class MpmsController {
 
   async getAllMinistries() {
     try {
-      let ministries = await mpmsModel.find();
+      const ministries = await mpmsModel.find();
 
       if (ministries.length == 0) {
-        return readMinistriesFromFile();
+        const dataFromJsonFile = fs.readFileSync(filePath, "utf8");
+        const data = JSON.parse(dataFromJsonFile);
+
+        const mappedData = data.map((item) => ({
+          name: item["NAME OF MINISTRY"],
+          acronym: item.ACRONYM,
+          ministerName: item["HON. MINISTERS"],
+          url: item.URL,
+        }));
+
+        const res = await mpmsModel.insertMany(mappedData);
+        return { ok: true, data: res };
       }
       return { ok: true, data: ministries };
     } catch (error) {
@@ -40,14 +51,3 @@ class MpmsController {
 }
 
 module.exports = new MpmsController();
-
-async function readMinistriesFromFile() {
-  try {
-    const data = fs.readFileSync(filePath, "utf8");
-    const ministries = JSON.parse(data);
-
-    return { ok: true, data: ministries };
-  } catch (error) {
-    return { ok: false, message: error.message };
-  }
-}
