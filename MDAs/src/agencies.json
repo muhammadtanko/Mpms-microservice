@@ -1,20 +1,212 @@
 [
   {
-    "NAME OF AGENCY": "FEDERAL ROAD SAFETY",
-    "ACRONYM": "FRSC",
-    "LOGO":"",
-    "URL": "www.google.com"
+    "NAME": "Budget Office of the Federation",
+    "ACRONYM": "BOF",
+    "URL": "https://www.budgetoffice.gov.ng/"
   },
   {
-    "NAME OF AGENCY": "SECOND AGENCY",
-    "ACRONYM": "SA",
-    "LOGO":"",
-    "URL": "https://defence.gov.ng/"
+    "NAME": "Bureau of Public Enterprises",
+    "ACRONYM": "BPE",
+    "URL": "https://www.bpe.gov.ng/"
   },
   {
-    "NAME OF AGENCY": "THIRD FEDERAL AGENCY",
-    "ACRONYM": "TFA",
-    "LOGO":"",
-    "URL": "https://education.gov.ng/"
+    "NAME": "Central Bank of Nigeria",
+    "ACRONYM": "CBN",
+    "URL": "https://www.cbn.gov.ng/"
+  },
+  {
+    "NAME": "Corporate Affairs Commission",
+    "ACRONYM": "CAC",
+    "URL": "https://www.cac.gov.ng/"
+  },
+  {
+    "NAME": "Debt Management Office",
+    "ACRONYM": "DMO",
+    "URL": "https://www.dmo.gov.ng/"
+  },
+  {
+    "NAME": "Department of Petroleum Resources",
+    "ACRONYM": "",
+    "URL": ""
+  },
+  {
+    "NAME": "Economic and Financial Crimes Commission",
+    "ACRONYM": "EFCC",
+    "URL": "https://www.efcc.gov.ng/"
+  },
+  {
+    "NAME": "Economic community of west-african states",
+    "ACRONYM": "ECOWAS",
+    "URL": "https://ecowas.int/"
+  },
+  {
+    "NAME": "Federal Aviation Authority of Nigeria",
+    "ACRONYM": "FAAN",
+    "URL": "https://faan.gov.ng/"
+  },
+  {
+    "NAME": "Federal Housing Authority",
+    "ACRONYM": "FHA",
+    "URL": "https://fha.gov.ng/"
+  },
+  {
+    "NAME": "Federal Inland Revenue Service",
+    "ACRONYM": "FIRS",
+    "URL": "https://www.firs.gov.ng/"
+  },
+  {
+    "NAME": "Independent Corrupt Practices & Other Related Offences",
+    "ACRONYM": "ICPC",
+    "URL": "https://icpc.gov.ng/"
+  },
+  {
+    "NAME": "Independent National Electoral Commission",
+    "ACRONYM": "INEC",
+    "URL": "https://www.inecnigeria.org/"
+  },
+  {
+    "NAME": "Industrial Training Fund",
+    "ACRONYM": "ITF",
+    "URL": "http://itf-nigeria.com/"
+  },
+  {
+    "NAME": "National Agency for Food and Drug Administration and Control",
+    "ACRONYM": "NAFDAC",
+    "URL": "https://www.nafdac.gov.ng/"
+  },
+  {
+    "NAME": "Nigerian National Assembly",
+    "ACRONYM": "NASS",
+    "URL": "https://nass.gov.ng/"
+  },
+  {
+    "NAME": "National Bureau of Statistics",
+    "ACRONYM": "NBS",
+    "URL": "https://www.nigerianstat.gov.ng/"
+  },
+  {
+    "NAME": "National Council on Privatisation",
+    "ACRONYM": "NCP",
+    "URL": "https://statehouse.gov.ng/policy/councils-committees/national-council-on-privatization/"
+  },
+  {
+    "NAME": "National Orientation Agency",
+    "ACRONYM": "NOA",
+    "URL": "https://www.noa.gov.ng/"
+  },
+  {
+    "NAME": "National Planning Commission",
+    "ACRONYM": "NPC",
+    "URL": ""
+  },
+  {
+    "NAME": "National Examination Council",
+    "ACRONYM": "NECO",
+    "URL": "https://neco.gov.ng/"
+  },
+  {
+    "NAME": "National Economic Empowerment & Development Strategy",
+    "ACRONYM": "NEEDS",
+    "URL": ""
+  },
+  {
+    "NAME": "The New Partnership for Africa’s Development",
+    "ACRONYM": "NEPAD",
+    "URL": "http://www.nepadaprm.gov.ng/"
+  },
+  {
+    "NAME": "National Poverty Eradication Programme",
+    "ACRONYM": "NEPAP",
+    "URL": ""
+  },
+  {
+    "NAME": "The Nigeria Export Processing Zones Authority",
+    "ACRONYM": "NEPZA",
+    "URL": "https://www.nepza.gov.ng/"
+  },
+  {
+    "NAME": "National Health Insurance Scheme",
+    "ACRONYM": "NHIS",
+    "URL": "https://www.nhis.gov.ng/"
+  },
+  {
+    "NAME": "Nigeria Deposit Insurance Corporation",
+    "ACRONYM": "NDIC",
+    "URL": "http://www.ndic.org.ng/"
+  },
+  {
+    "NAME": "Nigeria Investment Promotion Commission",
+    "ACRONYM": "NIPC",
+    "URL": "https://www.nipc.gov.ng/"
+  },
+  {
+    "NAME": "Nigeria National Petroleum Corporation",
+    "ACRONYM": "NNPC",
+    "URL": "https://nnpcgroup.com/"
+  },
+  {
+    "NAME": "Nigeria Postal Services",
+    "ACRONYM": "NIPOST",
+    "URL": "https://www.nipost.gov.ng/"
+  },
+  {
+    "NAME": "Nigeria Stock Exchange",
+    "ACRONYM": "NSE",
+    "URL": "https://ngxgroup.com//"
+  },
+  {
+    "NAME": "Nigerian Air force",
+    "ACRONYM": "NAF",
+    "URL": "https://airforce.mil.ng/"
+  },
+  {
+    "NAME": "Nigerian ARMY",
+    "ACRONYM": "NA",
+    "URL": "https://army.mil.ng/"
+  },
+  {
+    "NAME": "Nigerian Communications Commission",
+    "ACRONYM": "NCC",
+    "URL": "https://ncc.gov.ng/"
+  },
+  {
+    "NAME": "Nigerian LNG",
+    "ACRONYM": "NLNG",
+    "URL": "https://www.nigerialng.com/"
+  },
+  {
+    "NAME": "Nigerian Police",
+    "ACRONYM": "NPF",
+    "URL": "https://www.npf.gov.ng/"
+  },
+  {
+    "NAME": "Nigerian Television Authority ",
+    "ACRONYM": "NTA",
+    "URL": "https://nta.ng/"
+  },
+  {
+    "NAME": "Power Holding Company of Nigeria",
+    "ACRONYM": "PHC",
+    "URL": ""
+  },
+  {
+    "NAME": "Security and Exchange Commission",
+    "ACRONYM": "SEC",
+    "URL": "https://sec.gov.ng/"
+  },
+  {
+    "NAME": "ServiCom",
+    "ACRONYM": "SERVICOM",
+    "URL": "https://servicom.gov.ng/"
+  },
+  {
+    "NAME": "The Standards Organization of Nigeria",
+    "ACRONYM": "SON",
+    "URL": "https://trade.gov.ng"
+  },
+  {
+    "NAME": "West Africa Examination Council ",
+    "ACRONYM": "WAEC",
+    "URL": "https://www.waecnigeria.org/"
   }
-]
+ ]
