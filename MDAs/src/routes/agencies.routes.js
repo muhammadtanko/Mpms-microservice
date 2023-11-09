@@ -1,4 +1,4 @@
-const agenciesController = require("../controllers/agencies.controller");
+const AgenciesController = require("../controllers/agencies.controller");
 const { Router } = require("express");
 const multer = require("multer");
 const uuid = require("uuid").v4;
@@ -24,7 +24,7 @@ module.exports = (UPLOADS) => {
   api.get("/:id", async (req, res) => {
     try {
       const id = req.params.id;
-      let { ok, data, message } = await agenciesController.getSingleAgency(id);
+      let { ok, data, message } = await AgenciesController.getSingleAgency(id);
       if (ok) {
         res.status(201).json({ ok, data });
       } else {
@@ -39,7 +39,7 @@ module.exports = (UPLOADS) => {
     try {
       const body = req.body;
       body.logo = req.filePath;
-      const { ok, data, message } = await agenciesController.createAgency(body);
+      const { ok, data, message } = await AgenciesController.createAgency(body);
       if (ok) {
         res.status(201).json({ ok, data });
       } else {
@@ -52,7 +52,7 @@ module.exports = (UPLOADS) => {
 
   api.get("/", async (req, res) => {
     try {
-      const { ok, data, message } = await agenciesController.getAllAgencies();
+      const { ok, data, message } = await AgenciesController.getAllAgencies();
       if (ok) {
         res.status(201).json({ ok, data });
       } else {

@@ -1,7 +1,7 @@
 const agenciesModel = require("../model/agencies.model");
 const fs = require("fs");
 const path = require("path");
-const filePath = path.join(__dirname, "../agencies.json");
+const filePath = path.join(__dirname, "../Data/agencies.json");
 class AgenciesController {
   constructor() { }
 

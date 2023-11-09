@@ -1,10 +1,10 @@
 const ministriesModel = require("../model/ministries.model");
 const fs = require("fs");
 const path = require("path");
-const filePath = path.join(__dirname, "../ministries.json");
+const filePath = path.join(__dirname, "../Data/ministries.json");
 
 class MinistriesController {
-  constructor() {}
+  constructor() { }
 
   async createMinistry(body) {
     try {
