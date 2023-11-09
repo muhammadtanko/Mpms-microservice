@@ -1,0 +1,20 @@
+[
+  {
+    "NAME OF AGENCY": "FEDERAL ROAD SAFETY",
+    "ACRONYM": "FRSC",
+    "LOGO":"",
+    "URL": "www.google.com"
+  },
+  {
+    "NAME OF AGENCY": "SECOND AGENCY",
+    "ACRONYM": "SA",
+    "LOGO":"",
+    "URL": "https://defence.gov.ng/"
+  },
+  {
+    "NAME OF AGENCY": "THIRD FEDERAL AGENCY",
+    "ACRONYM": "TFA",
+    "LOGO":"",
+    "URL": "https://education.gov.ng/"
+  }
+]
