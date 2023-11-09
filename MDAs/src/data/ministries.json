@@ -1,248 +1,248 @@
 [
   {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF ART, CULTURE AND THE CREATIVE ECONOMY",
-      "ACRONYM": "FMACCE",
-      "HON. MINISTERS": "HANNATU MUSAWA",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF ART, CULTURE AND THE CREATIVE ECONOMY",
+      "acronym": "FMACCE",
+      "minister": "HANNATU MUSAWA",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF DEFENCE",
-      "ACRONYM": "FMOD",
-      "HON. MINISTERS": "MOHAMMED BADARU",
-      "URL": "https://defence.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF DEFENCE",
+      "acronym": "FMOD",
+      "minister": "MOHAMMED BADARU",
+      "url": "https://defence.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF EDUCATION",
-      "ACRONYM": "FME",
-      "HON. MINISTERS": "TAHIR MAMAN",
-      "URL": "https://education.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF EDUCATION",
+      "acronym": "FME",
+      "minister": "TAHIR MAMAN",
+      "url": "https://education.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF HOUSING & URBAN DEVELOPMENT",
-      "ACRONYM": "FMHUD",
-      "HON. MINISTERS": "AHMAD M. DANGIWA",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF HOUSING & URBAN DEVELOPMENT",
+      "acronym": "FMHUD",
+      "minister": "AHMAD M. DANGIWA",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF BUDGET & ECONOMIC PLANNING",
-      "ACRONYM": "FMBEP",
-      "HON. MINISTERS": "ATIKU BAGUDU",
-      "URL": "https://nationalplanning.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF BUDGET & ECONOMIC PLANNING",
+      "acronym": "FMBEP",
+      "minister": "ATIKU BAGUDU",
+      "url": "https://nationalplanning.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF  STATE, ENVIRONMENT AND ECOLOGICAL MANAGEMENT",
-      "ACRONYM": "",
-      "HON. MINISTERS": "ISHAK SALAKO",
-      "URL": "https://ead.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF  STATE, ENVIRONMENT AND ECOLOGICAL MANAGEMENT",
+      "acronym": "",
+      "minister": "ISHAK SALAKO",
+      "url": "https://ead.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF FEDERAL CAPITAL TERRITORY",
-      "ACRONYM": "FCT",
-      "HON. MINISTERS": "NYESOM WIKE",
-      "URL": "https://www.fcta.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF FEDERAL CAPITAL TERRITORY",
+      "acronym": "FCT",
+      "minister": "NYESOM WIKE",
+      "url": "https://www.fcta.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF WATER RESOURCES & SANITATION",
-      "ACRONYM": "FMWRS",
-      "HON. MINISTERS": "JOSEPH UTSEV",
-      "URL": "https://www.waterresources.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF WATER RESOURCES & SANITATION",
+      "acronym": "FMWRS",
+      "minister": "JOSEPH UTSEV",
+      "url": "https://www.waterresources.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY",
-      "ACRONYM": "FMAFS",
-      "HON. MINISTERS": "ABUBAKAR KYARI",
-      "URL": "https://fmard.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY",
+      "acronym": "FMAFS",
+      "minister": "ABUBAKAR KYARI",
+      "url": "https://fmard.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF INTERIOR",
-      "ACRONYM": "FMI",
-      "HON. MINISTERS": "SAIDU A. ALKALI",
-      "URL": "https://interior.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF INTERIOR",
+      "acronym": "FMI",
+      "minister": "SAIDU A. ALKALI",
+      "url": "https://interior.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF FOREIGN AFFAIRS",
-      "ACRONYM": "FMFA",
-      "HON. MINISTERS": "YUSUF M. TUGGAR",
-      "URL": "https://foreignaffairs.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF FOREIGN AFFAIRS",
+      "acronym": "FMFA",
+      "minister": "YUSUF M. TUGGAR",
+      "url": "https://foreignaffairs.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE",
-      "ACRONYM": "FMOHSW",
-      "HON. MINISTERS": "ALI PATE",
-      "URL": "https://www.health.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE",
+      "acronym": "FMOHSW",
+      "minister": "ALI PATE",
+      "url": "https://www.health.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-      "ACRONYM": "FMPA",
-      "HON. MINISTERS": "IBRAHIM GEIDAM",
-      "URL": "https://policeaffairs.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+      "acronym": "FMPA",
+      "minister": "IBRAHIM GEIDAM",
+      "url": "https://policeaffairs.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF STEEL DEVELOPMENT",
-      "ACRONYM": "FMSD",
-      "HON. MINISTERS": "SHUAIBU A. AUDU",
-      "URL": "https://www.minesandsteel.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF STEEL DEVELOPMENT",
+      "acronym": "FMSD",
+      "minister": "SHUAIBU A. AUDU",
+      "url": "https://www.minesandsteel.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF  INFORMATION AND NATIONAL ORIENTATION",
-      "ACRONYM": "FMINO",
-      "HON. MINISTERS": "MUHAMMED IDRIS",
-      "URL": "https://fmino.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF  INFORMATION AND NATIONAL ORIENTATION",
+      "acronym": "FMINO",
+      "minister": "MUHAMMED IDRIS",
+      "url": "https://fmino.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF JUSTICE",
-      "ACRONYM": "FMOJ",
-      "HON. MINISTERS": "LATEEF FAGBEMI",
-      "URL": "https://justice.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF JUSTICE",
+      "acronym": "FMOJ",
+      "minister": "LATEEF FAGBEMI",
+      "url": "https://justice.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-      "ACRONYM": "FMLE",
-      "HON. MINISTERS": "SIMON B. LALONG",
-      "URL": "https://labour.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+      "acronym": "FMLE",
+      "minister": "SIMON B. LALONG",
+      "url": "https://labour.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
-      "ACRONYM": "FMSDIA",
-      "HON. MINISTERS": "ZEPHANIAH JISALO",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+      "acronym": "FMSDIA",
+      "minister": "ZEPHANIAH JISALO",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",
-      "ACRONYM": "FMCIDE",
-      "HON. MINISTERS": "BOSUN TIJANI",
-      "URL": "http://fmcde.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",
+      "acronym": "FMCIDE",
+      "minister": "BOSUN TIJANI",
+      "url": "http://fmcde.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF FINANCE",
-      "ACRONYM": "FMF",
-      "HON. MINISTERS": "WALE EDUN",
-      "URL": "https://finance.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF FINANCE",
+      "acronym": "FMF",
+      "minister": "WALE EDUN",
+      "url": "https://finance.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY",
-      "ACRONYM": "FMMBE",
-      "HON. MINISTERS": "BUNMI TUNJI OJO",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY",
+      "acronym": "FMMBE",
+      "minister": "BUNMI TUNJI OJO",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF POWER",
-      "ACRONYM": "FMP",
-      "HON. MINISTERS": "ADEBAYO ADELABU",
-      "URL": "www.power.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF POWER",
+      "acronym": "FMP",
+      "minister": "ADEBAYO ADELABU",
+      "url": "www.power.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT",
-      "ACRONYM": "FMSMD",
-      "HON. MINISTERS": "DELE ALAKE",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT",
+      "acronym": "FMSMD",
+      "minister": "DELE ALAKE",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF TOURISM",
-      "ACRONYM": "",
-      "HON. MINISTERS": "LOLA ADE-JOHN",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF TOURISM",
+      "acronym": "",
+      "minister": "LOLA ADE-JOHN",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF TRANSPORTATION",
-      "ACRONYM": "FMT",
-      "HON. MINISTERS": "ADEGBOYEGA OYETOLA",
-      "URL": "https://transportation.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF TRANSPORTATION",
+      "acronym": "FMT",
+      "minister": "ADEGBOYEGA OYETOLA",
+      "url": "https://transportation.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-      "ACRONYM": "FMITI",
-      "HON. MINISTERS": "DORIS ANITE",
-      "URL": "https://fmiti.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+      "acronym": "FMITI",
+      "minister": "DORIS ANITE",
+      "url": "https://fmiti.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",
-      "ACRONYM": "FMSTI",
-      "HON. MINISTERS": "UCHE NNAJI",
-      "URL": "www.scienceandtech.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",
+      "acronym": "FMSTI",
+      "minister": "UCHE NNAJI",
+      "url": "www.scienceandtech.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF WORKS",
-      "ACRONYM": "FMW",
-      "HON. MINISTERS": "DAVID UMAHI",
-      "URL": "https://worksandhousing.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF WORKS",
+      "acronym": "FMW",
+      "minister": "DAVID UMAHI",
+      "url": "https://worksandhousing.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF AVIATION AND AEROSPACE DEVELOPMENT",
-      "ACRONYM": "FMAAD",
-      "HON. MINISTERS": "FESTUS KEYAMO",
-      "URL": "https://aviation.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF AVIATION AND AEROSPACE DEVELOPMENT",
+      "acronym": "FMAAD",
+      "minister": "FESTUS KEYAMO",
+      "url": "https://aviation.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF YOUTH",
-      "ACRONYM": "FMY",
-      "HON. MINISTERS": "ABUBAKAR MOMOH",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF YOUTH",
+      "acronym": "FMY",
+      "minister": "ABUBAKAR MOMOH",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF  HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION",
-      "ACRONYM": "FMHAPA",
-      "HON. MINISTERS": "BETTA EDU",
-      "URL": "www.fmhds.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF  HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION",
+      "acronym": "FMHAPA",
+      "minister": "BETTA EDU",
+      "url": "www.fmhds.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF STATE (GAS) PETROLEUM RESOURCES",
-      "ACRONYM": "",
-      "HON. MINISTERS": "EKPERIPE EKPO",
-      "URL": "https://petroleumresources.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF STATE (GAS) PETROLEUM RESOURCES",
+      "acronym": "",
+      "minister": "EKPERIPE EKPO",
+      "url": "https://petroleumresources.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF STATE (OIL) PETROLEUM RESOURCES",
-      "ACRONYM": "",
-      "HON. MINISTERS": "HEINEKEN LOKPOBIRI",
-      "URL": "https://petroleumresources.gov.ng",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF STATE (OIL) PETROLEUM RESOURCES",
+      "acronym": "",
+      "minister": "HEINEKEN LOKPOBIRI",
+      "url": "https://petroleumresources.gov.ng",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF SPORTS DEVELOPMENT",
-      "ACRONYM": "",
-      "HON. MINISTERS": "JOHN ENOH",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF SPORTS DEVELOPMENT",
+      "acronym": "",
+      "minister": "JOHN ENOH",
+      "url": "",
+      "logo":""
     },
     {
-      "NAME OF MINISTRY": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-      "ACRONYM": "FMWA",
-      "HON. MINISTERS": "UJU KENNEDY",
-      "URL": "",
-      "LOGO":""
+      "name": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+      "acronym": "FMWA",
+      "minister": "UJU KENNEDY",
+      "url": "",
+      "logo":""
     }
     
 ]

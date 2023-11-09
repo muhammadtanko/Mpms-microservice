@@ -12,11 +12,11 @@ class MinistriesController {
 
       if (res.data.length == 0) {
         const mappedData = DatafromJson.map((data) => ({
-          name: data["NAME OF MINISTRY"],
-          acronym: data.ACRONYM,
-          ministerName: data["HON. MINISTERS"],
-          url: data.URL,
-          logo: data.LOGO,
+          name: data.name,
+          acronym: data.acronym,
+          ministerName: data.minister,
+          url: data.url,
+          logo: data.logo,
         }));
 
         await ministriesModel.insertMany(mappedData);
