@@ -29,6 +29,7 @@ class MpmsController {
           acronym: item.ACRONYM,
           ministerName: item["HON. MINISTERS"],
           url: item.URL,
+          logo: item.LOGO,
         }));
 
         const res = await mpmsModel.insertMany(mappedData);
