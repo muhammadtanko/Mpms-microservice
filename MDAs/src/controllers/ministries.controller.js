@@ -1,10 +1,30 @@
 const ministriesModel = require("../model/ministries.model");
-const fs = require("fs");
-const path = require("path");
-const filePath = path.join(__dirname, "../Data/ministries.json");
+const DatafromJson = require("../data/ministries.json");
 
 class MinistriesController {
-  constructor() { }
+  constructor() {
+    this.#init();
+  }
+
+  async #init() {
+    try {
+      const res = await this.getAllMinistries();
+
+      if (res.data.length == 0) {
+        const mappedData = DatafromJson.map((data) => ({
+          name: data["NAME OF MINISTRY"],
+          acronym: data.ACRONYM,
+          ministerName: data["HON. MINISTERS"],
+          url: data.URL,
+          logo: data.LOGO,
+        }));
+
+        await ministriesModel.insertMany(mappedData);
+      }
+    } catch (error) {
+      console.log(error.message);
+    }
+  }
 
   async createMinistry(body) {
     try {
@@ -20,21 +40,6 @@ class MinistriesController {
     try {
       const ministries = await ministriesModel.find();
 
-      if (ministries.length == 0) {
-        const dataFromJsonFile = fs.readFileSync(filePath, "utf8");
-        const data = JSON.parse(dataFromJsonFile);
-
-        const mappedData = data.map((item) => ({
-          name: item["NAME OF MINISTRY"],
-          acronym: item.ACRONYM,
-          ministerName: item["HON. MINISTERS"],
-          url: item.URL,
-          logo: item.LOGO,
-        }));
-
-        const res = await ministriesModel.insertMany(mappedData);
-        return { ok: true, data: res };
-      }
       return { ok: true, data: ministries };
     } catch (error) {
       return { ok: false, message: error.message };
