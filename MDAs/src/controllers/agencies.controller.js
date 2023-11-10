@@ -3,9 +3,9 @@ const jsonFileData = require("../data/agencies.json");
 
 class AgenciesController {
   constructor() {
-    this.populateDb();
+    this.#populateDb();
   }
-  async populateDb() {
+  async #populateDb() {
     const dbData = await agenciesModel.find();
 
     if (dbData.length == 0) {
@@ -15,9 +15,7 @@ class AgenciesController {
         logo: item.LOGO,
         url: item.URL,
       }));
-      console.log("mappedData",mappedData);
       const res = await agenciesModel.insertMany(mappedData);
-      console.log("response", res);
       return { ok: true, data: res };
     }
   }
