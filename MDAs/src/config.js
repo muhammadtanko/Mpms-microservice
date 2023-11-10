@@ -6,6 +6,6 @@ const {
 module.exports = {
     app: {
         port: APP_PORT || 3000,
-        mongoUri: APP_MONGO_URI || "mongodb://localhost:27017/mda01098"
+        mongoUri: APP_MONGO_URI || "mongodb://localhost:27017/mda"
     },
 }
