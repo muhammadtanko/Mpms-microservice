@@ -10,12 +10,13 @@ class AgenciesController {
 
     if (dbData.length == 0) {
       const mappedData = jsonFileData.map((item) => ({
-        name: item["NAME"],
-        acronym: item.ACRONYM,
-        logo: item.LOGO,
-        url: item.URL,
+        name: item.name,
+        acronym: item.acronym,
+        logo: item.logo,
+        url: item.url,
       }));
       const res = await agenciesModel.insertMany(mappedData);
+      console.log("agency>> database populated");
       return { ok: true, data: res };
     }
   }

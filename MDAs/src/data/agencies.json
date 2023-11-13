@@ -1,254 +1,254 @@
 [
   {
-    "NAME": "Budget Office of the Federation",
-    "ACRONYM": "BOF",
-    "URL": "https://www.budgetoffice.gov.ng",
-    "LOGO": ""
+    "name": "Budget Office of the Federation",
+    "acronym": "BOF",
+    "url": "https://www.budgetoffice.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Bureau of Public Enterprises",
-    "ACRONYM": "BPE",
-    "URL": "https://www.bpe.gov.ng",
-    "LOGO": ""
+    "name": "Bureau of Public Enterprises",
+    "acronym": "BPE",
+    "url": "https://www.bpe.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Central Bank of Nigeria",
-    "ACRONYM": "CBN",
-    "URL": "https://www.cbn.gov.ng",
-    "LOGO": ""
+    "name": "Central Bank of Nigeria",
+    "acronym": "CBN",
+    "url": "https://www.cbn.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Corporate Affairs Commission",
-    "ACRONYM": "CAC",
-    "URL": "https://www.cac.gov.ng",
-    "LOGO": ""
+    "name": "Corporate Affairs Commission",
+    "acronym": "CAC",
+    "url": "https://www.cac.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Debt Management Office",
-    "ACRONYM": "DMO",
-    "URL": "https://www.dmo.gov.ng",
-    "LOGO": ""
+    "name": "Debt Management Office",
+    "acronym": "DMO",
+    "url": "https://www.dmo.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Department of Petroleum Resources",
-    "ACRONYM": "",
-    "URL": "",
-    "LOGO": ""
+    "name": "Department of Petroleum Resources",
+    "acronym": "",
+    "url": "",
+    "logo": ""
   },
   {
-    "NAME": "Economic and Financial Crimes Commission",
-    "ACRONYM": "EFCC",
-    "URL": "https://www.efcc.gov.ng",
-    "LOGO": ""
+    "name": "Economic and Financial Crimes Commission",
+    "acronym": "EFCC",
+    "url": "https://www.efcc.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Economic community of west-african states",
-    "ACRONYM": "ECOWAS",
-    "URL": "https://ecowas.int",
-    "LOGO": ""
+    "name": "Economic community of west-african states",
+    "acronym": "ECOWAS",
+    "url": "https://ecowas.int",
+    "logo": ""
   },
   {
-    "NAME": "Federal Aviation Authority of Nigeria",
-    "ACRONYM": "FAAN",
-    "URL": "https://faan.gov.ng",
-    "LOGO": ""
+    "name": "Federal Aviation Authority of Nigeria",
+    "acronym": "FAAN",
+    "url": "https://faan.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Federal Housing Authority",
-    "ACRONYM": "FHA",
-    "URL": "https://fha.gov.ng",
-    "LOGO": ""
+    "name": "Federal Housing Authority",
+    "acronym": "FHA",
+    "url": "https://fha.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Federal Inland Revenue Service",
-    "ACRONYM": "FIRS",
-    "URL": "https://www.firs.gov.ng",
-    "LOGO": ""
+    "name": "Federal Inland Revenue Service",
+    "acronym": "FIRS",
+    "url": "https://www.firs.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Independent Corrupt Practices & Other Related Offences",
-    "ACRONYM": "ICPC",
-    "URL": "https://icpc.gov.ng",
-    "LOGO": ""
+    "name": "Independent Corrupt Practices & Other Related Offences",
+    "acronym": "ICPC",
+    "url": "https://icpc.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Independent National Electoral Commission",
-    "ACRONYM": "INEC",
-    "URL": "https://www.inecnigeria.org",
-    "LOGO": ""
+    "name": "Independent National Electoral Commission",
+    "acronym": "INEC",
+    "url": "https://www.inecnigeria.org",
+    "logo": ""
   },
   {
-    "NAME": "Industrial Training Fund",
-    "ACRONYM": "ITF",
-    "URL": "http://itf-nigeria.com",
-    "LOGO": ""
+    "name": "Industrial Training Fund",
+    "acronym": "ITF",
+    "url": "http://itf-nigeria.com",
+    "logo": ""
   },
   {
-    "NAME": "National Agency for Food and Drug Administration and Control",
-    "ACRONYM": "NAFDAC",
-    "URL": "https://www.nafdac.gov.ng",
-    "LOGO": ""
+    "name": "National Agency for Food and Drug Administration and Control",
+    "acronym": "NAFDAC",
+    "url": "https://www.nafdac.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian National Assembly",
-    "ACRONYM": "NASS",
-    "URL": "https://nass.gov.ng",
-    "LOGO": ""
+    "name": "Nigerian National Assembly",
+    "acronym": "NASS",
+    "url": "https://nass.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Bureau of Statistics",
-    "ACRONYM": "NBS",
-    "URL": "https://www.nigerianstat.gov.ng",
-    "LOGO": ""
+    "name": "National Bureau of Statistics",
+    "acronym": "NBS",
+    "url": "https://www.nigerianstat.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Council on Privatisation",
-    "ACRONYM": "NCP",
-    "URL": "https://statehouse.gov.ng/policy/councils-committees/national-council-on-privatization",
-    "LOGO": ""
+    "name": "National Council on Privatisation",
+    "acronym": "NCP",
+    "url": "https://statehouse.gov.ng/policy/councils-committees/national-council-on-privatization",
+    "logo": ""
   },
   {
-    "NAME": "National Orientation Agency",
-    "ACRONYM": "NOA",
-    "URL": "https://www.noa.gov.ng",
-    "LOGO": ""
+    "name": "National Orientation Agency",
+    "acronym": "NOA",
+    "url": "https://www.noa.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Planning Commission",
-    "ACRONYM": "NPC",
-    "URL": "",
-    "LOGO": ""
+    "name": "National Planning Commission",
+    "acronym": "NPC",
+    "url": "",
+    "logo": ""
   },
   {
-    "NAME": "National Examination Council",
-    "ACRONYM": "NECO",
-    "URL": "https://neco.gov.ng",
-    "LOGO": ""
+    "name": "National Examination Council",
+    "acronym": "NECO",
+    "url": "https://neco.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Economic Empowerment & Development Strategy",
-    "ACRONYM": "NEEDS",
-    "URL": "",
-    "LOGO": ""
+    "name": "National Economic Empowerment & Development Strategy",
+    "acronym": "NEEDS",
+    "url": "",
+    "logo": ""
   },
   {
-    "NAME": "The New Partnership for Africa’s Development",
-    "ACRONYM": "NEPAD",
-    "URL": "http://www.nepadaprm.gov.ng",
-    "LOGO": ""
+    "name": "The New Partnership for Africa’s Development",
+    "acronym": "NEPAD",
+    "url": "http://www.nepadaprm.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Poverty Eradication Programme",
-    "ACRONYM": "NEPAP",
-    "URL": "",
-    "LOGO": ""
+    "name": "National Poverty Eradication Programme",
+    "acronym": "NEPAP",
+    "url": "",
+    "logo": ""
   },
   {
-    "NAME": "The Nigeria Export Processing Zones Authority",
-    "ACRONYM": "NEPZA",
-    "URL": "https://www.nepza.gov.ng",
-    "LOGO": ""
+    "name": "The Nigeria Export Processing Zones Authority",
+    "acronym": "NEPZA",
+    "url": "https://www.nepza.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "National Health Insurance Scheme",
-    "ACRONYM": "NHIS",
-    "URL": "https://www.nhis.gov.ng",
-    "LOGO": ""
+    "name": "National Health Insurance Scheme",
+    "acronym": "NHIS",
+    "url": "https://www.nhis.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigeria Deposit Insurance Corporation",
-    "ACRONYM": "NDIC",
-    "URL": "http://www.ndic.org.ng",
-    "LOGO": ""
+    "name": "Nigeria Deposit Insurance Corporation",
+    "acronym": "NDIC",
+    "url": "http://www.ndic.org.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigeria Investment Promotion Commission",
-    "ACRONYM": "NIPC",
-    "URL": "https://www.nipc.gov.ng",
-    "LOGO": ""
+    "name": "Nigeria Investment Promotion Commission",
+    "acronym": "NIPC",
+    "url": "https://www.nipc.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigeria National Petroleum Corporation",
-    "ACRONYM": "NNPC",
-    "URL": "https://nnpcgroup.com",
-    "LOGO": ""
+    "name": "Nigeria National Petroleum Corporation",
+    "acronym": "NNPC",
+    "url": "https://nnpcgroup.com",
+    "logo": ""
   },
   {
-    "NAME": "Nigeria Postal Services",
-    "ACRONYM": "NIPOST",
-    "URL": "https://www.nipost.gov.ng",
-    "LOGO": ""
+    "name": "Nigeria Postal Services",
+    "acronym": "NIPOST",
+    "url": "https://www.nipost.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigeria Stock Exchange",
-    "ACRONYM": "NSE",
-    "URL": "https://ngxgroup.com",
-    "LOGO": ""
+    "name": "Nigeria Stock Exchange",
+    "acronym": "NSE",
+    "url": "https://ngxgroup.com",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian Air force",
-    "ACRONYM": "NAF",
-    "URL": "https://airforce.mil.ng",
-    "LOGO": ""
+    "name": "Nigerian Air force",
+    "acronym": "NAF",
+    "url": "https://airforce.mil.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian ARMY",
-    "ACRONYM": "NA",
-    "URL": "https://army.mil.ng",
-    "LOGO": ""
+    "name": "Nigerian ARMY",
+    "acronym": "NA",
+    "url": "https://army.mil.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian Communications Commission",
-    "ACRONYM": "NCC",
-    "URL": "https://ncc.gov.ng",
-    "LOGO": ""
+    "name": "Nigerian Communications Commission",
+    "acronym": "NCC",
+    "url": "https://ncc.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian LNG",
-    "ACRONYM": "NLNG",
-    "URL": "https://www.nigerialng.com",
-    "LOGO": ""
+    "name": "Nigerian LNG",
+    "acronym": "NLNG",
+    "url": "https://www.nigerialng.com",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian Police",
-    "ACRONYM": "NPF",
-    "URL": "https://www.npf.gov.ng",
-    "LOGO": ""
+    "name": "Nigerian Police",
+    "acronym": "NPF",
+    "url": "https://www.npf.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "Nigerian Television Authority ",
-    "ACRONYM": "NTA",
-    "URL": "https://nta.ng",
-    "LOGO": ""
+    "name": "Nigerian Television Authority ",
+    "acronym": "NTA",
+    "url": "https://nta.ng",
+    "logo": ""
   },
   {
-    "NAME": "Power Holding Company of Nigeria",
-    "ACRONYM": "PHC",
-    "URL": "",
-    "LOGO": ""
+    "name": "Power Holding Company of Nigeria",
+    "acronym": "PHC",
+    "url": "",
+    "logo": ""
   },
   {
-    "NAME": "Security and Exchange Commission",
-    "ACRONYM": "SEC",
-    "URL": "https://sec.gov.ng",
-    "LOGO": ""
+    "name": "Security and Exchange Commission",
+    "acronym": "SEC",
+    "url": "https://sec.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "ServiCom",
-    "ACRONYM": "SERVICOM",
-    "URL": "https://servicom.gov.ng",
-    "LOGO": ""
+    "name": "ServiCom",
+    "acronym": "SERVICOM",
+    "url": "https://servicom.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "The Standards Organization of Nigeria",
-    "ACRONYM": "SON",
-    "URL": "https://trade.gov.ng",
-    "LOGO": ""
+    "name": "The Standards Organization of Nigeria",
+    "acronym": "SON",
+    "url": "https://trade.gov.ng",
+    "logo": ""
   },
   {
-    "NAME": "West Africa Examination Council ",
-    "ACRONYM": "WAEC",
-    "URL": "https://www.waecnigeria.org",
-    "LOGO": ""
+    "name": "West Africa Examination Council ",
+    "acronym": "WAEC",
+    "url": "https://www.waecnigeria.org",
+    "logo": ""
   }
  ]

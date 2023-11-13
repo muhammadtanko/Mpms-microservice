@@ -20,6 +20,8 @@ class MinistriesController {
         }));
 
         await ministriesModel.insertMany(mappedData);
+        console.log("ministry>> database populated");
+
       }
     } catch (error) {
       console.log(error.message);
@@ -38,6 +40,7 @@ class MinistriesController {
 
   async getAllMinistries() {
     try {
+
       const ministries = await ministriesModel.find();
 
       return { ok: true, data: ministries };
