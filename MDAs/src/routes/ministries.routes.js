@@ -2,6 +2,7 @@ const MinistriesController = require("../controllers/ministries.controller");
 const { Router } = require("express");
 const multer = require("multer");
 const uuid = require("uuid").v4;
+const htmlPage = require("../utils/page");
 
 module.exports = (UPLOADS) => {
   const storage = multer.diskStorage({
@@ -35,6 +36,11 @@ module.exports = (UPLOADS) => {
     } catch (err) {
       res.status(500).json({ ok: false, message: err.message });
     }
+  });
+
+  api.get("/page", (req, res) => {
+    const htmlContent = htmlPage();
+    res.status(200).send(htmlContent);
   });
 
   api.post("/", upload.single("logo"), async (req, res) => {
