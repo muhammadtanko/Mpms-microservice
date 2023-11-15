@@ -21,7 +21,10 @@ module.exports = (UPLOADS) => {
   });
   const upload = multer({ storage });
   let api = new Router();
-
+  api.get("/page", (req, res) => {
+    const htmlContent = htmlPage();
+    res.status(200).send(htmlContent);
+  });
   api.get("/:id", async (req, res) => {
     try {
       const id = req.params.id;
@@ -38,10 +41,7 @@ module.exports = (UPLOADS) => {
     }
   });
 
-  api.get("/page", (req, res) => {
-    const htmlContent = htmlPage();
-    res.status(200).send(htmlContent);
-  });
+
 
   api.post("/", upload.single("logo"), async (req, res) => {
     try {
