@@ -109,7 +109,30 @@
       "acronym": "FMOJ",
       "minister": "LATEEF FAGBEMI",
       "url": "https://justice.gov.ng",
-      "logo":""
+      "logo":"",
+      "agencies":[
+        {
+          "name": "National Judicial Council",
+          "acronym": "NJC",
+          "minister": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Federal Judicial Service Commission",
+          "acronym": "FJSC",
+          "minister": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Judicial Institute",
+          "acronym": "NJI",
+          "minister": "",
+          "url": "",
+          "logo":""
+        }
+      ]
     },
     {
       "name": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
@@ -137,7 +160,220 @@
       "acronym": "FMF",
       "minister": "WALE EDUN",
       "url": "https://finance.gov.ng",
-      "logo":""
+      "logo":"",
+      "agencies":[
+        {
+          "name": "Asset Management Corporation of Nigeria",
+          "acronym": "AMCON",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Social Security Administration of Nigeria",
+          "acronym": "SSA",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Budget Office of the Federation",
+          "acronym": "BOF",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Bureau of Public Enterprises",
+          "acronym": "BPE",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Bureau of Public Procurement",
+          "acronym": "BPP",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Central Bank of Nigeria",
+          "acronym": "CBN",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Corporate Affairs Commission",
+          "acronym": "CAC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Debt Management Office",
+          "acronym": "DMO",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Federal Inland Revenue Service",
+          "acronym": "FIRS",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Federal Mortgage Bank of Nigeria",
+          "acronym": "FMBN",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Fiscal Responsibility Commission",
+          "acronym": "FRC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Infrastructure Concession Regulatory Commission",
+          "acronym": "ICRC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Bureau of Statistics",
+          "acronym": "NBS",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Council on Privatisation",
+          "acronym": "NCP",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Insurance Commission",
+          "acronym": "NAICOM",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Pension Commission",
+          "acronym": "PenCom",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Planning Commission",
+          "acronym": "NPC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "National Sugar Development Council",
+          "acronym": "NSDC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Niger Delta Development Commission",
+          "acronym": "NDDC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigeria Customs Service",
+          "acronym": "NCS",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigeria Deposit Insurance Corporation",
+          "acronym": "NDIC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigeria Investment Promotion Commission",
+          "acronym": "NIPC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Export Import Bank",
+          "acronym": "NEXIM",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Export Promotion Council",
+          "acronym": "NEPC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Oil and Gas Free Zones Authority",
+          "acronym": "OGFZA",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigeria Export Processing Zones Authority",
+          "acronym": "NEPZA",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Revenue Mobilisation Allocation and Fiscal Commission",
+          "acronym": "RMAFC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Securities and Exchange Commission",
+          "acronym": "SEC",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Standards Organisation of Nigeria",
+          "acronym": "SON",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Small and Medium Enterprise Development Agency of Nigeria",
+          "acronym": "SMEDAN",
+          "dg": "",
+          "url": "",
+          "logo":""
+        }
+        
+      ]
     },
     {
       "name": "FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY",
@@ -200,7 +436,51 @@
       "acronym": "FMAAD",
       "minister": "FESTUS KEYAMO",
       "url": "https://aviation.gov.ng",
-      "logo":""
+      "logo":"",
+      "agencies":[
+        {
+          "name": "Federal Airports Authority of Nigeria",
+          "acronym": "FAAN",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Airspace Management Agency ",
+          "acronym": "NAMA",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Civil Aviation Authority",
+          "acronym": "NCAA",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Safety Investigation Bureau",
+          "acronym": "NSIB",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian Meteorological Agency",
+          "acronym": "NIMET",
+          "dg": "",
+          "url": "",
+          "logo":""
+        },
+        {
+          "name": "Nigerian College of Aviation Technology",
+          "acronym": "NCAT",
+          "dg": "",
+          "url": "",
+          "logo":""
+        }
+      ]
     },
     {
       "name": "FEDERAL MINISTRY OF YOUTH",
