@@ -1,248 +1,711 @@
 [
   {
-      "name": "FEDERAL MINISTRY OF ART, CULTURE AND THE CREATIVE ECONOMY",
-      "acronym": "FMACCE",
-      "minister": "HANNATU MUSAWA",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF DEFENCE",
-      "acronym": "FMOD",
-      "minister": "MOHAMMED BADARU",
-      "url": "https://defence.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF EDUCATION",
-      "acronym": "FME",
-      "minister": "TAHIR MAMAN",
-      "url": "https://education.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF HOUSING & URBAN DEVELOPMENT",
-      "acronym": "FMHUD",
-      "minister": "AHMAD M. DANGIWA",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF BUDGET & ECONOMIC PLANNING",
-      "acronym": "FMBEP",
-      "minister": "ATIKU BAGUDU",
-      "url": "https://nationalplanning.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF  STATE, ENVIRONMENT AND ECOLOGICAL MANAGEMENT",
-      "acronym": "",
-      "minister": "ISHAK SALAKO",
-      "url": "https://ead.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF FEDERAL CAPITAL TERRITORY",
-      "acronym": "FCT",
-      "minister": "NYESOM WIKE",
-      "url": "https://www.fcta.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF WATER RESOURCES & SANITATION",
-      "acronym": "FMWRS",
-      "minister": "JOSEPH UTSEV",
-      "url": "https://www.waterresources.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY",
-      "acronym": "FMAFS",
-      "minister": "ABUBAKAR KYARI",
-      "url": "https://fmard.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF INTERIOR",
-      "acronym": "FMI",
-      "minister": "SAIDU A. ALKALI",
-      "url": "https://interior.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF FOREIGN AFFAIRS",
-      "acronym": "FMFA",
-      "minister": "YUSUF M. TUGGAR",
-      "url": "https://foreignaffairs.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE",
-      "acronym": "FMOHSW",
-      "minister": "ALI PATE",
-      "url": "https://www.health.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF POLICE AFFAIRS",
-      "acronym": "FMPA",
-      "minister": "IBRAHIM GEIDAM",
-      "url": "https://policeaffairs.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF STEEL DEVELOPMENT",
-      "acronym": "FMSD",
-      "minister": "SHUAIBU A. AUDU",
-      "url": "https://www.minesandsteel.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF  INFORMATION AND NATIONAL ORIENTATION",
-      "acronym": "FMINO",
-      "minister": "MUHAMMED IDRIS",
-      "url": "https://fmino.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF JUSTICE",
-      "acronym": "FMOJ",
-      "minister": "LATEEF FAGBEMI",
-      "url": "https://justice.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
-      "acronym": "FMLE",
-      "minister": "SIMON B. LALONG",
-      "url": "https://labour.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
-      "acronym": "FMSDIA",
-      "minister": "ZEPHANIAH JISALO",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",
-      "acronym": "FMCIDE",
-      "minister": "BOSUN TIJANI",
-      "url": "http://fmcde.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF FINANCE",
-      "acronym": "FMF",
-      "minister": "WALE EDUN",
-      "url": "https://finance.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY",
-      "acronym": "FMMBE",
-      "minister": "BUNMI TUNJI OJO",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF POWER",
-      "acronym": "FMP",
-      "minister": "ADEBAYO ADELABU",
-      "url": "www.power.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT",
-      "acronym": "FMSMD",
-      "minister": "DELE ALAKE",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF TOURISM",
-      "acronym": "",
-      "minister": "LOLA ADE-JOHN",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF TRANSPORTATION",
-      "acronym": "FMT",
-      "minister": "ADEGBOYEGA OYETOLA",
-      "url": "https://transportation.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
-      "acronym": "FMITI",
-      "minister": "DORIS ANITE",
-      "url": "https://fmiti.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",
-      "acronym": "FMSTI",
-      "minister": "UCHE NNAJI",
-      "url": "www.scienceandtech.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF WORKS",
-      "acronym": "FMW",
-      "minister": "DAVID UMAHI",
-      "url": "https://worksandhousing.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF AVIATION AND AEROSPACE DEVELOPMENT",
-      "acronym": "FMAAD",
-      "minister": "FESTUS KEYAMO",
-      "url": "https://aviation.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF YOUTH",
-      "acronym": "FMY",
-      "minister": "ABUBAKAR MOMOH",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF  HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION",
-      "acronym": "FMHAPA",
-      "minister": "BETTA EDU",
-      "url": "www.fmhds.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF STATE (GAS) PETROLEUM RESOURCES",
-      "acronym": "",
-      "minister": "EKPERIPE EKPO",
-      "url": "https://petroleumresources.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF STATE (OIL) PETROLEUM RESOURCES",
-      "acronym": "",
-      "minister": "HEINEKEN LOKPOBIRI",
-      "url": "https://petroleumresources.gov.ng",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF SPORTS DEVELOPMENT",
-      "acronym": "",
-      "minister": "JOHN ENOH",
-      "url": "",
-      "logo":""
-    },
-    {
-      "name": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
-      "acronym": "FMWA",
-      "minister": "UJU KENNEDY",
-      "url": "",
-      "logo":""
-    }
-    
+    "name": "FEDERAL MINISTRY OF ART, CULTURE AND THE CREATIVE ECONOMY",
+    "acronym": "FMACCE",
+    "minister": "HANNATU MUSAWA",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF DEFENCE",
+    "acronym": "FMOD",
+    "minister": "MOHAMMED BADARU",
+    "url": "https://defence.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "Defence Intelligence Agency",
+        "acronym": "DIA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "State Security Service",
+        "acronym": "SSS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Intelligence Agency",
+        "acronym": "NIA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Financial Intelligence Unit",
+        "acronym": "NFIU",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF EDUCATION",
+    "acronym": "FME",
+    "minister": "TAHIR MAMAN",
+    "url": "https://education.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "National Board for Arabic And Islamic Studies",
+        "acronym": "NBAIS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Joint Admissions and Matriculation Board",
+        "acronym": "JAMB",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Examination Council",
+        "acronym": "NECO",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Open University of Nigeria",
+        "acronym": "NOUN",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Teachers Institute",
+        "acronym": "NTI",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Universities Commission",
+        "acronym": "NUC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Tertiary Education Trust Fund",
+        "acronym": "TETFUND",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Teachers Registration Council of Nigeria",
+        "acronym": "TRCN",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Business and Technical Examinations Board",
+        "acronym": "NABTEB",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Universal Basic Education Commission",
+        "acronym": "UBEC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "West African Examination Council",
+        "acronym": "WAEC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Commission for Colleges of Education ",
+        "acronym": "NCCE",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Library of Nigeria",
+        "acronym": "NLN",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF HOUSING & URBAN DEVELOPMENT",
+    "acronym": "FMHUD",
+    "minister": "AHMAD M. DANGIWA",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF BUDGET & ECONOMIC PLANNING",
+    "acronym": "FMBEP",
+    "minister": "ATIKU BAGUDU",
+    "url": "https://nationalplanning.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF  STATE, ENVIRONMENT AND ECOLOGICAL MANAGEMENT",
+    "acronym": "",
+    "minister": "ISHAK SALAKO",
+    "url": "https://ead.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "Federal Environmental Protection Agency ",
+        "acronym": "FEPA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Forestry Research Institute of Nigeria",
+        "acronym": "FRIN",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Biosafety Management Agency",
+        "acronym": "NBMA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Environmental Standards and Regulations Enforcement Agency",
+        "acronym": "NESREA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Oil Spill Detection and Response Agency",
+        "acronym": "NOSDRA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Environmental Health Officers Registration Council of Nigeria",
+        "acronym": "EHORECON",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF FEDERAL CAPITAL TERRITORY",
+    "acronym": "FCT",
+    "minister": "NYESOM WIKE",
+    "url": "https://www.fcta.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF WATER RESOURCES & SANITATION",
+    "acronym": "FMWRS",
+    "minister": "JOSEPH UTSEV",
+    "url": "https://www.waterresources.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "Nigeria Hydrological Services Agency",
+        "acronym": "NIHSA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Integrated Water Resources Commission",
+        "acronym": "",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Water Resources Institute",
+        "acronym": "NWRI",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "River Basin Development Authorities",
+        "acronym": "RBDA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "",
+        "acronym": "",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF AGRICULTURE AND FOOD SECURITY",
+    "acronym": "FMAFS",
+    "minister": "ABUBAKAR KYARI",
+    "url": "https://fmard.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "Cocoa Research Institute of Nigeria",
+        "acronym": "CRIN",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Agricultural Extension, Research and Liaison Services ",
+        "acronym": "NAERLS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Veterinary Research Institute",
+        "acronym": "NVRI",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Agricultural Insurance Corporation",
+        "acronym": "NAIC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Root Crops Research Institute",
+        "acronym": "NCRI",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Agricultural Research Council of Nigeria",
+        "acronym": "",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Institute for Oceanography and Marine Research",
+        "acronym": "",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Institute for Oil Palm Research",
+        "acronym": "NIFOR",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigeria Agricultural Quarantine Service",
+        "acronym": "NAQS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Horticultural Research Institute",
+        "acronym": "NIHORT",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF INTERIOR",
+    "acronym": "FMI",
+    "minister": "SAIDU A. ALKALI",
+    "url": "https://interior.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF FOREIGN AFFAIRS",
+    "acronym": "FMFA",
+    "minister": "YUSUF M. TUGGAR",
+    "url": "https://foreignaffairs.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF HEALTH AND SOCIAL WELFARE",
+    "acronym": "FMOHSW",
+    "minister": "ALI PATE",
+    "url": "https://www.health.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "National Health Insurance Scheme ",
+        "acronym": "NHIS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Institute for Pharmaceutical Research and Development ",
+        "acronym": "NIPRD",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Agency for the Control of AIDS ",
+        "acronym": "NACA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Agency for Food and Drug Administration and Control ",
+        "acronym": "NAFDAC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Primary Health Care Development Agency",
+        "acronym": "NPHCDA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Institute of Medical Research",
+        "acronym": "NIMR",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigeria Centre for Disease Control ",
+        "acronym": "NCDC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Drug Law Enforcement Agency",
+        "acronym": "NDLEA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF POLICE AFFAIRS",
+    "acronym": "FMPA",
+    "minister": "IBRAHIM GEIDAM",
+    "url": "https://policeaffairs.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF STEEL DEVELOPMENT",
+    "acronym": "FMSD",
+    "minister": "SHUAIBU A. AUDU",
+    "url": "https://www.minesandsteel.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF  INFORMATION AND NATIONAL ORIENTATION",
+    "acronym": "FMINO",
+    "minister": "MUHAMMED IDRIS",
+    "url": "https://fmino.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF JUSTICE",
+    "acronym": "FMOJ",
+    "minister": "LATEEF FAGBEMI",
+    "url": "https://justice.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF LABOUR AND EMPLOYMENT",
+    "acronym": "FMLE",
+    "minister": "SIMON B. LALONG",
+    "url": "https://labour.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF SPECIAL DUTIES AND INTER-GOVERNMENTAL AFFAIRS",
+    "acronym": "FMSDIA",
+    "minister": "ZEPHANIAH JISALO",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF COMMUNICATIONS, INNOVATION AND DIGITAL ECONOMY",
+    "acronym": "FMCIDE",
+    "minister": "BOSUN TIJANI",
+    "url": "http://fmcde.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "National Information Technology Development Agency",
+        "acronym": "NITDA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigeria Communications Satellite Limited ",
+        "acronym": "NIGCOMSAT",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Broadcasting Commission",
+        "acronym": "NBC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Communications Commission",
+        "acronym": "NCC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Postal Service",
+        "acronym": "NIPOST",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Frequency Management Council",
+        "acronym": "",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Television Authority",
+        "acronym": "NTA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Galaxy Backbone",
+        "acronym": "GBB",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF FINANCE",
+    "acronym": "FMF",
+    "minister": "WALE EDUN",
+    "url": "https://finance.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF MARINE AND BLUE ECONOMY",
+    "acronym": "FMMBE",
+    "minister": "BUNMI TUNJI OJO",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF POWER",
+    "acronym": "FMP",
+    "minister": "ADEBAYO ADELABU",
+    "url": "www.power.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF SOLID MINERALS DEVELOPMENT",
+    "acronym": "FMSMD",
+    "minister": "DELE ALAKE",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF TOURISM",
+    "acronym": "",
+    "minister": "LOLA ADE-JOHN",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF TRANSPORTATION",
+    "acronym": "FMT",
+    "minister": "ADEGBOYEGA OYETOLA",
+    "url": "https://transportation.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF INDUSTRY, TRADE AND INVESTMENT",
+    "acronym": "FMITI",
+    "minister": "DORIS ANITE",
+    "url": "https://fmiti.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF INNOVATION, SCIENCE AND TECHNOLOGY",
+    "acronym": "FMSTI",
+    "minister": "UCHE NNAJI",
+    "url": "www.scienceandtech.gov.ng",
+    "logo": "",
+    "agencies": [
+      {
+        "name": "National Agency For Science and Engineering Infrastructure ",
+        "acronym": "NASENI",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Biotechnology Development Agency",
+        "acronym": "NABDA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Centre for Remote Sensing",
+        "acronym": "NCRS",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Sheda Science and Technology Complex ",
+        "acronym": "SHESTCO",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Office for Technology Acquisition and Promotion",
+        "acronym": "NOTAP",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Space Research and Development Agency ",
+        "acronym": "NASRDA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Nuclear Regulatory Authority",
+        "acronym": "NNRA",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Raw Materials Research and Development Council",
+        "acronym": "RMRDC",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "Nigerian Communications Satellite Ltd",
+        "acronym": "NIGCOMSAT",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      },
+      {
+        "name": "National Centre for Technology Management",
+        "acronym": "NACETEM",
+        "dg": "",
+        "url": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "FEDERAL MINISTRY OF WORKS",
+    "acronym": "FMW",
+    "minister": "DAVID UMAHI",
+    "url": "https://worksandhousing.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF AVIATION AND AEROSPACE DEVELOPMENT",
+    "acronym": "FMAAD",
+    "minister": "FESTUS KEYAMO",
+    "url": "https://aviation.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF YOUTH",
+    "acronym": "FMY",
+    "minister": "ABUBAKAR MOMOH",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF  HUMANITARIAN AFFAIRS AND POVERTY ALLEVIATION",
+    "acronym": "FMHAPA",
+    "minister": "BETTA EDU",
+    "url": "www.fmhds.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF STATE (GAS) PETROLEUM RESOURCES",
+    "acronym": "",
+    "minister": "EKPERIPE EKPO",
+    "url": "https://petroleumresources.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF STATE (OIL) PETROLEUM RESOURCES",
+    "acronym": "",
+    "minister": "HEINEKEN LOKPOBIRI",
+    "url": "https://petroleumresources.gov.ng",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF SPORTS DEVELOPMENT",
+    "acronym": "",
+    "minister": "JOHN ENOH",
+    "url": "",
+    "logo": ""
+  },
+  {
+    "name": "FEDERAL MINISTRY OF WOMEN AFFAIRS",
+    "acronym": "FMWA",
+    "minister": "UJU KENNEDY",
+    "url": "",
+    "logo": ""
+  }
 ]
